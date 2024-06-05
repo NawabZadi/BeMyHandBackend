@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
   },
-  "author": "Muzamil Hussain",
+  "author": "Amina Fayyaz",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
